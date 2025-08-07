@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @izoo2003
-- 👀 I’m interested in coding and building games
-- 🌱 I’m currently learning C language,Python and Visual Basic
-- 💞️ I’m looking to collaborate on C language related projects
-- 📫 How to reach me izaanmujeeb420@gmail.com on email
+## 🧠 About Me
 
-<!---
-izoo2003/izoo2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm **Izaan Mujeeb**, an aspiring **AI & ML Engineer** and **Frontend Web Developer**, currently pursuing a **Bachelor's in Computer Science** from **FAST NUCES (Class of 2026)**.
+
+### 👨‍💻 What I Do
+
+* ⚙️ **AI/ML Engineering**
+
+  * Data analysis & preprocessing
+  * Building & training ML models
+  * Hyperparameter tuning & model optimization
+  * Model deployment & real-world integration
+
+* 🌐 **Frontend Web Development**
+
+  * Modern UI/UX development using **React.js**
+  * Responsive design with **TailwindCSS**
+  * Seamless frontend interaction with APIs
+
+### 🎯 Goals
+
+* Build scalable and intelligent AI-powered products
+* Combine cutting-edge ML with great frontend experiences
+* Contribute to open-source AI & web development communities
+
+---
+
+## 📫 Let’s Connect
+
+* LinkedIn: https://www.linkedin.com/in/izaan-mujeeb-393238306/
+* GitHub: github.com/izoo2003
+* Website: https://izaan-mujeeb.netlify.app/
