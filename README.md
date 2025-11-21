@@ -10,6 +10,11 @@ Hi! I'm **Izaan Mujeeb**, an aspiring **AI & ML Engineer** and **Frontend Web De
   * Building & training ML models
   * Hyperparameter tuning & model optimization
   * Model deployment & real-world integration
+  * NLP techniques for language and speech processing
+  * Generative AI fundamentals, LLMs, and prompt engineering
+  * RAG-based application development and integration with LLMs
+  * Chatbot development using LangChain, LangFlow, and n8n
+  * Chatbot development using LangChain, LangFlow, and n8n
 
 * 🌐 **Frontend Web Development**
 
