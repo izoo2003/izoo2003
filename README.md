@@ -1,6 +1,6 @@
 ## 🧠 About Me
 
-Hi! I'm **Izaan Mujeeb**, an aspiring **AI & ML Engineer** and **Frontend Web Developer**, currently pursuing a **Bachelor's in Computer Science** from **FAST NUCES (Class of 2026)**.
+Hi! I'm **Izaan Mujeeb**, an aspiring **AI & ML Engineer** and **Full Stack Web Developer**, currently pursuing a **Bachelor's in Computer Science** from **FAST NUCES (Class of 2026)**.
 
 ### 👨‍💻 What I Do
 
