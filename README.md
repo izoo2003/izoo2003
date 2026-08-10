@@ -46,8 +46,12 @@ Previously: AI agents for real-estate underwriting at **Foundrex Labs**, and Wha
 ## GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=izoo2003&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izoo2003&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izoo2003&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izoo2003&theme=tokyonight" />
+</p>
+<p align="left">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izoo2003&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izoo2003&theme=tokyonight" />
 </p>
 
 ---
