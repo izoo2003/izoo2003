@@ -1,67 +1,55 @@
-# Hi there, I'm Izaan Mujeeb! 👋
+# Izaan Bin Mujeeb
 
-### 🚀 AI Engineer | Full Stack Developer | Automation Enthusiast
+**AI Engineer & Full Stack Developer** building agentic systems, RAG pipelines, and ML/data science models that ship.
 
-I am a Computer Science undergraduate at **FAST NUCES (Class of 2026)** with a passion for building intelligent systems. My work bridges the gap between **Cutting-edge AI** and **Scalable Web Applications**.
+📍 Karachi, Pakistan · [LinkedIn](https://www.linkedin.com/in/izaan-mujeeb-393238306/) · [Portfolio](https://izaan-mujeeb.netlify.app/) · [GitHub](https://github.com/izoo2003) · izaan1562@gmail.com
 
-Currently, I am focused on **Agentic AI**, **RAG Pipelines**, and **Business Automation** using tools like **n8n** and **LangChain**.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**🤖 AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-
-**🌐 Web Development**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-**🗄️ Databases & Infrastructure**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+Currently: **Agentic AI Engineer @ Kafi Commodities**, building AI sales/finance/ops agents on Claude and Gemini.
 
 ---
 
-### 🔭 Featured Projects
+## What I'm working on
 
-| Project | Description | Tech Stack |
+**Sellara AI** — an AI sales co-pilot (React/Vite, FastAPI, PostgreSQL, Gemini) automating email, WhatsApp, and voice outreach for a 900+ lead pipeline.
+
+**KAFI AI Agent** — a Claude-powered finance suite handling bank reconciliation, credit card verification, expense analysis, and fund estimation via Google Sheets.
+
+**Social Media & Branding Agent** — Gemini-powered, consolidating publishing across 8 accounts and 4 platforms into one click, cutting manual steps by ~88%.
+
+Previously: AI agents for real-estate underwriting at **Foundrex Labs**, and WhatsApp RAG chatbots at **Possibilities Unlimited**.
+
+---
+
+## Projects
+
+| Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **House Price Prediction** | End-to-end regression pipeline estimating property valuations with real-time Gradio deployment. | `Scikit-Learn` `Gradio` `Python` |
-| **CardioCare AI** | Machine Learning application for assessing heart disease risk using clinical parameters. | `Streamlit` `Random Forest` `Pandas` |
-| **WhatsApp AI Automation** | Automated bulk messaging and chatbot system integrating local LLMs and RAG pipelines. | `n8n` `LangChain` `Python` |
-| **Domain Name Resolver** | Network analysis tool for resolving IPs and calculating network hops/latency. | `Python` `Networking` `Sockets` |
-| **2D AI Connect-4** | Interactive game with Minimax-based AI difficulty levels (Easy/Medium/Hard). | `Python` `Minimax` `Game Dev` |
+| [FinanceAI Pro](https://github.com/Anassarwar14/Final-Year-Project) | RAG-powered financial assistant with a real-time trading simulator and gamified learning hub | Next.js, Prisma, PostgreSQL, LangChain |
+| [VisionTrack](https://github.com/izoo2003/VisionTrack-Real-Time-Object-Identification-Persistent-Tracking) | Real-time multi-object detection and tracking, holding identity through occlusion via Kalman filtering | YOLOv8, Deep SORT, OpenCV |
+| [ChurnLens](https://github.com/izoo2003/ChurnLens---An-Churn-Prediction-Model-In-A-Telecom-Dataset) | Churn drivers via chi-square/ANOVA, XGBoost tuned with Optuna (0.84 ROC-AUC), served with SHAP explainability | XGBoost, Optuna, FastAPI, Docker |
+| [Hindsight](https://github.com/izoo2003/Hindsight-Forecast-Demand-Prove-Impact.) | Demand forecasting on 1M+ records (72% lower MAE) and causal lift estimation via Difference-in-Differences | LightGBM, Prophet, LSTM, Streamlit |
+| [Gesture-Flow](https://github.com/izoo2003/Gesture-Flow-AI) | PyTorch vs. TensorFlow classifiers on live webcam data, 100% test accuracy at 0.4ms inference | PyTorch, MediaPipe, Pygame |
+
+→ [More projects on GitHub](https://github.com/izoo2003?tab=repositories)
 
 ---
 
-### 📊 GitHub Stats
+## Stack
 
-![Izaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=izoo2003&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izoo2003&layout=compact&theme=tokyonight)
+`Python` `TypeScript` `SQL` `Java` `C++`
+`PyTorch` `TensorFlow` `LangChain` `RAG` `Scikit-Learn` `XGBoost`
+`FastAPI` `React` `Next.js` `n8n` `Docker`
+`PostgreSQL` `Supabase` `MongoDB` `Prisma`
 
 ---
 
-### 📫 Let's Connect
+## GitHub stats
 
-<a href="https://linkedin.com/in/izaan-mujeeb-393238306/">
-  <img align="left" alt="Izaan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://izaan-mujeeb.netlify.app/">
-  <img align="left" alt="Izaan's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
-</a>
-<a href="mailto:izaan1562@gmail.com">
-  <img align="left" alt="Izaan's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=izoo2003&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izoo2003&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<br />
+---
+
+*W-Gang — co-founded a campus social platform live at 10 Pakistani universities, leading backend architecture (FastAPI, Supabase).*
