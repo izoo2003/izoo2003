@@ -1,12 +1,18 @@
-# Izaan Bin Mujeeb
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=200&section=header&text=Izaan%20Bin%20Mujeeb&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-**AI Engineer & Full Stack Developer** building agentic systems, RAG pipelines, and ML/data science models that ship.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Full+Stack+Developer;Agentic+AI+%7C+RAG+Pipelines+%7C+ML%2FData+Science;Building+things+that+ship%2C+not+just+demo" />
+</p>
 
-📍 Karachi, Pakistan · [LinkedIn](https://www.linkedin.com/in/izaan-mujeeb-393238306/) · [Portfolio](https://izaan-mujeeb.netlify.app/) · [GitHub](https://github.com/izoo2003) · izaan1562@gmail.com
+<p align="center">
+  📍 Karachi, Pakistan · <a href="https://www.linkedin.com/in/izaan-mujeeb-393238306/">LinkedIn</a> · <a href="https://izaan-mujeeb.netlify.app/">Portfolio</a> · <a href="https://github.com/izoo2003">GitHub</a> · izaan1562@gmail.com
+</p>
 
-Currently: **Agentic AI Engineer @ Kafi Commodities**, building AI sales/finance/ops agents on Claude and Gemini.
+<p align="center">Currently: <strong>Agentic AI Engineer @ Kafi Commodities</strong>, building AI sales/finance/ops agents on Claude and Gemini.</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:414868,100:7aa2f7&height=3&section=header" width="100%" />
 
 ## What I'm working on
 
@@ -18,7 +24,7 @@ Currently: **Agentic AI Engineer @ Kafi Commodities**, building AI sales/finance
 
 Previously: AI agents for real-estate underwriting at **Foundrex Labs**, and WhatsApp RAG chatbots at **Possibilities Unlimited**.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:414868,100:7aa2f7&height=3&section=header" width="100%" />
 
 ## Projects
 
@@ -32,7 +38,7 @@ Previously: AI agents for real-estate underwriting at **Foundrex Labs**, and Wha
 
 → [More projects on GitHub](https://github.com/izoo2003?tab=repositories)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:414868,100:7aa2f7&height=3&section=header" width="100%" />
 
 ## Stack
 
@@ -41,7 +47,7 @@ Previously: AI agents for real-estate underwriting at **Foundrex Labs**, and Wha
 `FastAPI` `React` `Next.js` `n8n` `Docker`
 `PostgreSQL` `Supabase` `MongoDB` `Prisma`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:414868,100:7aa2f7&height=3&section=header" width="100%" />
 
 ## GitHub stats
 
@@ -54,6 +60,19 @@ Previously: AI agents for real-estate underwriting at **Foundrex Labs**, and Wha
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izoo2003&theme=tokyonight" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:414868,100:7aa2f7&height=3&section=header" width="100%" />
+
+## Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/izoo2003/izoo2003/output/github-contribution-grid-snake.svg" />
+</p>
+<p align="center"><sub>Animated via a GitHub Action — see <code>.github/workflows/snake.yml</code> below for the one-time setup.</sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:414868,100:7aa2f7&height=3&section=header" width="100%" />
 
 *W-Gang — co-founded a campus social platform live at 10 Pakistani universities, leading backend architecture (FastAPI, Supabase).*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,100:1a1b27&height=100&section=footer" />
+</p>
